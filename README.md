@@ -29,4 +29,4 @@ Rotas:
 
 Documentação:
 
-Para iniciar o projeto, é necessário importar o dump do banco de dados e configurar as credenciais de conexão. Em seguida, execute o comando "npx nodemon --exec "ts-node" src/app.ts" para iniciar a aplicação. As rotas estão disponíveis para teste e uso.
+Para iniciar o projeto, é necessário importar o dump do banco de dados e configurar as credenciais de conexão. Em seguida, execute o comando "npx nodemon --exec "ts-node" src/app.ts" para iniciar a aplicação. As rotas estão disponíveis para teste e uso.# Poc_2
